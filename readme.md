@@ -1,5 +1,6 @@
 # Piano Virtual
 
+[demo-simulator.webm](https://github.com/jonas-holanda/virtual-piano/assets/138180385/08fdd823-dbf3-4ecb-847b-d967d3054be7)
 
 
 **Tendo como base o simulador feito nas aulas, criei meu Piano Virtual. Onde fiz que o simulador só aparecesse para ser utilizado se a orientação do dispositivo estiver como Paisagem. Assim os dispositivos que estão com o modo retrato(tela em pé) não conseguem utilizar o piano, só ao girar(deitar) o dispositivo deixando assim no modo Paisagem, para uma melhor experiência ao usar o simulador.**
